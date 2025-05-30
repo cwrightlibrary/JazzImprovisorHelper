@@ -1,4 +1,4 @@
-# 🛠️ Development Roadmap for "Jazz Improvisation Randomizer"
+# 🛠️ Development Roadmap for "Jazz Improvisor Helper"
 
 ## 1. 🎨 **UI Design (Swing)**
 
