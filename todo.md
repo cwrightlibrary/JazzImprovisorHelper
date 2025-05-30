@@ -216,7 +216,7 @@ For C Dorian:
 ## ✅ Suggested Class Structure
 
 ```java
-class JazzImprovisationRandomizer { ... } // main app
+class JazzImprovisorHelper { ... } // main app
 class ChordProgression { String key; List<String> chords; ... }
 class NoteSequence { String scale; List<String> notes; ... }
 class MidiPlayer { void playChord(...); void playSequence(...); }
